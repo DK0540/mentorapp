@@ -1,0 +1,40 @@
+{
+    "user": {
+      "backgroundImage": "https://i.postimg.cc/63TL2mG7/Topcircle.png",
+      "userImage": "https://i.postimg.cc/6qr7yrz2/User.png",
+      "editText": "Edit",
+      "userName": "Akash Mehra",
+      "userRole": "Sr Implementation Engineer at GigaStore",
+      "userEducation": "M.Sc in Computer Science BITS, Pilani",
+      "userBio": "Innovative implementation engineer, turning ideas into reality through cutting-edge tech solutions"
+    },
+    "icons": {
+      "backButton": "https://i.postimg.cc/dVx0QNvN/Back-Button.png",
+      "work": "https://i.postimg.cc/D0wVXFPr/work.png",
+      "school": "https://i.postimg.cc/fWCC2YMT/school.png",
+      "bookmark": "https://i.postimg.cc/brh5xP0C/bookmark.png",
+      "chat": "https://i.postimg.cc/SxpB6WdQ/chat.png"
+    },
+    "skills": {
+      "skills1": "AWS",
+      "skills2": "Java",
+      "skills3": "Python",
+      "skills4": "C++",
+      "skills5": "SQL",
+      "skills6": "NoSQL",
+      "skills7": "Agile",
+      "skills8": "Scrum"
+    },
+    "performance": {
+      "attendance": "85%",
+      "ratings": "4.7",
+      "sessionsCompleted": "20"
+    },
+    "languages": {
+      "language1": "English",
+      "language2": "Hindi",
+      "proficiency1": "Intermediate",
+      "proficiency2": "Fluent"
+    }
+  }
+  
